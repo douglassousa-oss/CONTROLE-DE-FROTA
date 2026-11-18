@@ -1,0 +1,8 @@
+CONTROLE DE ROTAS
+ID: 2
+Codigo binario do ID: 10
+Veiculo: gnh2525
+Origem: alfenas
+Destino: sao paulo
+Distancia: 340.0 km
+Status: Planejada
