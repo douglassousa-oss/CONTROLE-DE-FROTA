@@ -74,7 +74,7 @@ bool salvarRotas(const vector<Rota>& rotas) {
 bool carregarRotas(vector<Rota>& rotas, int& proximoId) {
     ifstream arquivo(ARQUIVO_DADOS);
 
-    // Se ainda n√£o existe arquivo, come√ßa sem rotas.
+    // Se ainda n„o existe arquivo, comeÁa sem rotas.
     if (!arquivo.is_open()) {
         proximoId = 1;
         return true;
